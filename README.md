@@ -11,11 +11,11 @@ My goal is to build strong, real-world projects and become internship-ready thro
 ---
 
 ## ⭐ About Me  
-- 🎓 3rd Year B.Tech CSE Student  
-- 🤖 Exploring AI & Deep Learning fundamentals  
-- ☁️ Interested in Cloud Computing and DevOps  
-- 🔍 Constantly improving DSA and problem-solving  
-- 🎯 Goal: Build impactful projects + secure good internships
+-  3rd Year B.Tech CSE Student  
+-  Exploring AI & Deep Learning fundamentals  
+-  Interested in Cloud Computing and DevOps  
+-  Constantly improving DSA and problem-solving  
+-  Goal: Build impactful projects + secure good internships
 
 ---
 
