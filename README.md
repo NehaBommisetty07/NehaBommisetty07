@@ -1,7 +1,8 @@
 # Neha-Bommisetty
 
 # Hi, I'm Neha 👋  
-### Computer Science Engineering • 2027 Graduate • CGPA: 8.61  
+### Computer Science Engineering • 2027 Graduate • CGPA: 8.74
+
 ### Software Development | AI/ML Enthusiast | Cloud & DevOps Learner 
 
 I’m a CSE student passionate about building clean, simple, and meaningful projects.  
